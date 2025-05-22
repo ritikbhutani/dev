@@ -8,5 +8,5 @@ cd ..
 rm -rf ./yay-bin
 
 sudo pacman -Su --needed --noconfirm wofi waybar ttf-font-awesome
-yay -Sy --noconfirm hyprshot hyprlock hypridle hyprpaper starship nwg-look brave-bin
+yay -Sy --noconfirm hyprshot hyprlock hypridle hyprpaper starship nwg-look catppuccin-gtk-theme-mocha
 
